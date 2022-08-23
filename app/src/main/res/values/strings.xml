@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories">Categories</string>
+    <string name="instuctions">Instuctions:</string>
+    <string name="area">area:Kyrgyzstan</string>
+    <string name="description">descr</string>
+    <string name="category_beef">category:Beef</string>
+</resources>
